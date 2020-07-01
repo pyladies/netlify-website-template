@@ -10,7 +10,7 @@ Netlify is a simple tool to use for continuous integration and continuous develo
 
 1. Fork the repo.
 2. We advise replacing `master` with `main` as the [default branch](https://docs.github.com/en/github/administering-a-repository/setting-the-default-branch). 
-3. Register for a Netlify account. [Open source teams qualify for free OSS accounts](https://www.netlify.com/legal/open-source-policy/), use your `pyladies` chapter email address when creating your account. You'll need to host a Netlify badge on your website. Please note that any overages will be additionally charged.
+3. Register for a Netlify account. [Open source teams qualify for free OSS accounts](https://www.netlify.com/legal/open-source-policy/), use your `pyladies` chapter email address when creating your account. You'll need to host a Netlify badge on your website which is already included in the emplate. Please note that any overages will be additionally charged.
 4. Setup your site with [these directions](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). As this is a simple html and css website there is no need for custom build steps.
 4. If you have requested a [custom domain](https://github.com/pyladies/pyladies/README.md) you can configure that within [your Netlify site](https://www.netlify.com/blog/2020/03/26/how-to-set-up-netlify-dns-custom-domains-cname-a-records/).
 
