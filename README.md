@@ -1,6 +1,10 @@
 # netlify-website-template
 
-Example of PyLadies Website theme powered by Netlify. 
+Example of PyLadies Website theme powered by Netlify. You can preview the template [here](https://distracted-payne-504b82.netlify.app/).
+
+## What is Netlify?
+
+Netlify is a simple tool to use for continuous integration and continuous development. It allows you to specify custom build commands as well as run specific tests and pull request to specific branches you specify. You can additionally get a deploy preview of your website capturing the changes generated in a pull request on a Netlify hosted url. 
 
 ## Setting up you website with Netlify
 
