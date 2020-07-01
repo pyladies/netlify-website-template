@@ -4,7 +4,7 @@ Example of PyLadies Website theme powered by Netlify with [a standard pull reque
 
 ## What is Netlify?
 
-Netlify is a simple tool to use for continuous integration and continuous development. It allows you to specify custom build commands as well as run specific tests and pull request to specific branches you specify. You can additionally get a deploy preview of your website capturing the changes generated in a pull request on a Netlify hosted url. 
+Netlify is a simple tool to use for continuous integration and continuous development (CI/CD). It allows you to specify custom build commands as well as run checks in your pull requests. You can additionally get a deploy preview of your website capturing the changes generated in a pull request on a Netlify hosted url. Here's [an example pull request](https://github.com/pyladies/netlify-website-template/pull/1) to see the checks and deploy.
 
 ## Setting up you website with Netlify
 
