@@ -19,6 +19,7 @@ Netlify is a simple tool to use for continuous integration and continuous develo
 - Main file you'll update is `index.html` where you can add organizer information, your own chapter branding, contact links for your chapter, and replace the skyline image. 
 - You'll want to place organizer photos can be placed in the `images/bios` directory and update the `images/skyline.jpg` with your own desired skyline image.
 - If you rename the skyline image modify the `style.css` to point it to the image, look for the `.skyline` css rule.
+- Add your custom `@pyladies/chapter-organizer` team that is created when you add your website to the [PyLadies Chapter Website repo](github.com/pyladies/chapter-websites) e.g. `@pyladies/chicago`
 
 ## Local Development
 
